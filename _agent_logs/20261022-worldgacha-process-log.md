@@ -36,3 +36,7 @@
 | 15:12 | Flow screenshots for the blog: browser chrome (tabs, project URL) cropped, avatar blurred → flow/doc/blog_*.png | Privacy |
 | 15:45 | DA-V2 timing on the loaded box: 18–46 s/frame (pipeline, 518 px); bare forward 13 s @266 px, 26–33 s @518 | 942 inferences = 4–7 h, infeasible |
 | 15:52 | Clarification 6 (before scoring): DA input 182 px, 9 arm frames, 13 GT frames; rules unchanged | Same for all arms; disclosed |
+| 16:01 | Capture of 06 finished, then the pipeline ran: selftest 0.000; scored 6 scenes at ~18 s each (box load had dropped to ~3) | Primary results |
+| 16:08 | Robustness: original density (33/25/518 px) re-run, about 3 min per scene, same verdicts | results_fullres/ |
+| 16:20 | variety.py; tables → PNG (2800 px); hypothesis CI figure label fix; GIFs shrunk to 960 px (3.9–6.3 MB) | — |
+| 16:35 | Post, README, issues 06–07; secret scan CLEAN (236 files); raw Flow screenshots (tabs/URL) excluded; pushed nankris/worldgacha-veo-camera-path | — |
