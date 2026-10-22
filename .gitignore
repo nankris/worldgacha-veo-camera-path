@@ -1,0 +1,14 @@
+cache/
+_tmp/
+gt/**/*.png
+gt_superseded_no_straight_verticals/
+results/frames/
+browser/*.glb
+scripts/wg_page.html
+scripts/__pycache__/
+*.pyc
+_private/
+figures/compare_scene0?.gif
+results_fullres/frames/
+cache_fullres/
+flow/doc/0*.png

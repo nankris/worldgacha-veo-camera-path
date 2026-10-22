@@ -1,0 +1,283 @@
+{
+ "04": {
+  "type": "downtown",
+  "seed": 20261004,
+  "presets_available": [
+   [
+    "",
+    "(Moved camera)"
+   ],
+   [
+    "wide",
+    "Whole region"
+   ],
+   [
+    "overview",
+    "Overview (near area)"
+   ],
+   [
+    "top",
+    "Top"
+   ],
+   [
+    "scramble",
+    "Scramble crossing"
+   ],
+   [
+    "scrambleHigh",
+    "Scramble crossing \u00b7 looking down"
+   ],
+   [
+    "lane",
+    "Narrow lane downtown"
+   ],
+   [
+    "station",
+    "Station square"
+   ],
+   [
+    "platform",
+    "Station platform"
+   ],
+   [
+    "center",
+    "Central street \u00b7 eye level"
+   ],
+   [
+    "centerLow",
+    "Central street \u00b7 low angle"
+   ],
+   [
+    "centerHigh",
+    "Central street \u00b7 looking down"
+   ],
+   [
+    "ix0",
+    "Crossing 1"
+   ],
+   [
+    "ix1",
+    "Crossing 2"
+   ],
+   [
+    "ix2",
+    "Crossing 3"
+   ],
+   [
+    "ix3",
+    "Crossing 4"
+   ],
+   [
+    "eye",
+    "Eye level (town center)"
+   ]
+  ],
+  "preset": [
+   "center",
+   "Central street \u00b7 eye level"
+  ],
+  "c0": [
+   -3.162588339379816,
+   1.5744134120617153,
+   9.77114002478697,
+   25.379603054951524,
+   1.5561033332126908,
+   19.009284341117894,
+   24
+  ],
+  "c1": [
+   34.89366685306199,
+   1.574413412061715,
+   22.088665779894875,
+   63.43585824739333,
+   1.5561033332126906,
+   31.3268100962258,
+   24
+  ],
+  "start_url": "https://tools.oyasumi-gamedev.com/worldgacha/?lang=en#r=%7B%22app%22%3A%22worldgacha%22%2C%22v%22%3A1%2C%22type%22%3A%22downtown%22%2C%22seed%22%3A20261004%2C%22size%22%3A2000%2C%22res%22%3A512%2C%22town%22%3A1%2C%22nodeSeeds%22%3A%7B%7D%2C%22num%22%3A%7B%7D%2C%22paint%22%3A%5B%5D%7D&c=-3.2%2C1.6%2C9.8%2C25.4%2C1.6%2C19%2C24&k=300&v=%7B%22cr%22%3A0%7D",
+  "end_url": "https://tools.oyasumi-gamedev.com/worldgacha/?lang=en#r=%7B%22app%22%3A%22worldgacha%22%2C%22v%22%3A1%2C%22type%22%3A%22downtown%22%2C%22seed%22%3A20261004%2C%22size%22%3A2000%2C%22res%22%3A512%2C%22town%22%3A1%2C%22nodeSeeds%22%3A%7B%7D%2C%22num%22%3A%7B%7D%2C%22paint%22%3A%5B%5D%7D&c=34.9%2C1.6%2C22.1%2C63.4%2C1.6%2C31.3%2C24&k=300&v=%7B%22cr%22%3A0%7D",
+  "seconds": 112.8253059387207
+ },
+ "05": {
+  "type": "skyscraper",
+  "seed": 20261005,
+  "presets_available": [
+   [
+    "",
+    "(Moved camera)"
+   ],
+   [
+    "wide",
+    "Whole region"
+   ],
+   [
+    "overview",
+    "Overview (near area)"
+   ],
+   [
+    "top",
+    "Top"
+   ],
+   [
+    "plaza",
+    "Plaza (skyscrapers)"
+   ],
+   [
+    "skyline",
+    "Skyscrapers from the river"
+   ],
+   [
+    "center",
+    "Central street \u00b7 eye level"
+   ],
+   [
+    "centerLow",
+    "Central street \u00b7 low angle"
+   ],
+   [
+    "centerHigh",
+    "Central street \u00b7 looking down"
+   ],
+   [
+    "ix0",
+    "Crossing 1"
+   ],
+   [
+    "ix1",
+    "Crossing 2"
+   ],
+   [
+    "ix2",
+    "Crossing 3"
+   ],
+   [
+    "eye",
+    "Eye level (town center)"
+   ]
+  ],
+  "preset": [
+   "center",
+   "Central street \u00b7 eye level"
+  ],
+  "c0": [
+   -9.653049003906178,
+   1.7119662811981136,
+   -4.1314216594516076,
+   -21.457110888053627,
+   1.5079338161461804,
+   23.448718351708912,
+   24
+  ],
+  "c1": [
+   -25.391798182769445,
+   1.7119662811981136,
+   32.642098355429084,
+   -37.19586006691689,
+   1.5079338161461804,
+   60.2222383665896,
+   24
+  ],
+  "start_url": "https://tools.oyasumi-gamedev.com/worldgacha/?lang=en#r=%7B%22app%22%3A%22worldgacha%22%2C%22v%22%3A1%2C%22type%22%3A%22skyscraper%22%2C%22seed%22%3A20261005%2C%22size%22%3A2000%2C%22res%22%3A512%2C%22town%22%3A1%2C%22nodeSeeds%22%3A%7B%7D%2C%22num%22%3A%7B%7D%2C%22paint%22%3A%5B%5D%7D&c=-9.7%2C1.7%2C-4.1%2C-21.5%2C1.5%2C23.4%2C24&k=300&v=%7B%22cr%22%3A0%7D",
+  "end_url": "https://tools.oyasumi-gamedev.com/worldgacha/?lang=en#r=%7B%22app%22%3A%22worldgacha%22%2C%22v%22%3A1%2C%22type%22%3A%22skyscraper%22%2C%22seed%22%3A20261005%2C%22size%22%3A2000%2C%22res%22%3A512%2C%22town%22%3A1%2C%22nodeSeeds%22%3A%7B%7D%2C%22num%22%3A%7B%7D%2C%22paint%22%3A%5B%5D%7D&c=-25.4%2C1.7%2C32.6%2C-37.2%2C1.5%2C60.2%2C24&k=300&v=%7B%22cr%22%3A0%7D",
+  "seconds": 155.92965245246887
+ },
+ "06": {
+  "type": "rural",
+  "seed": 20261006,
+  "presets_available": [
+   [
+    "",
+    "(Moved camera)"
+   ],
+   [
+    "wide",
+    "Whole region"
+   ],
+   [
+    "overview",
+    "Overview (near area)"
+   ],
+   [
+    "top",
+    "Top"
+   ],
+   [
+    "street",
+    "In town (shopping street)"
+   ],
+   [
+    "station",
+    "Station square"
+   ],
+   [
+    "platform",
+    "Station platform"
+   ],
+   [
+    "center",
+    "Central street \u00b7 eye level"
+   ],
+   [
+    "centerLow",
+    "Central street \u00b7 low angle"
+   ],
+   [
+    "centerHigh",
+    "Central street \u00b7 looking down"
+   ],
+   [
+    "ix0",
+    "Crossing 1"
+   ],
+   [
+    "ix1",
+    "Crossing 2 Station Street"
+   ],
+   [
+    "ix2",
+    "Crossing 3"
+   ],
+   [
+    "ix3",
+    "Crossing 4"
+   ],
+   [
+    "eye",
+    "Eye level (town center)"
+   ],
+   [
+    "river",
+    "Riverside"
+   ],
+   [
+    "hill",
+    "Lookout (high ground)"
+   ]
+  ],
+  "preset": [
+   "center",
+   "Central street \u00b7 eye level"
+  ],
+  "c0": [
+   -7.427106956212867,
+   1.6870260822167107,
+   -9.07757516870461,
+   -30.64582593231249,
+   1.5433709146493755,
+   9.919558539013265,
+   24
+  ],
+  "c1": [
+   -38.38539892434571,
+   1.6870260822167107,
+   16.251936441585897,
+   -61.60411790044533,
+   1.5433709146493755,
+   35.24907014930377,
+   24
+  ],
+  "start_url": "https://tools.oyasumi-gamedev.com/worldgacha/?lang=en#r=%7B%22app%22%3A%22worldgacha%22%2C%22v%22%3A1%2C%22type%22%3A%22rural%22%2C%22seed%22%3A20261006%2C%22size%22%3A2000%2C%22res%22%3A512%2C%22town%22%3A1%2C%22nodeSeeds%22%3A%7B%7D%2C%22num%22%3A%7B%7D%2C%22paint%22%3A%5B%5D%7D&c=-7.4%2C1.7%2C-9.1%2C-30.6%2C1.5%2C9.9%2C24&k=300&v=%7B%22cr%22%3A0%7D",
+  "end_url": "https://tools.oyasumi-gamedev.com/worldgacha/?lang=en#r=%7B%22app%22%3A%22worldgacha%22%2C%22v%22%3A1%2C%22type%22%3A%22rural%22%2C%22seed%22%3A20261006%2C%22size%22%3A2000%2C%22res%22%3A512%2C%22town%22%3A1%2C%22nodeSeeds%22%3A%7B%7D%2C%22num%22%3A%7B%7D%2C%22paint%22%3A%5B%5D%7D&c=-38.4%2C1.7%2C16.3%2C-61.6%2C1.5%2C35.2%2C24&k=300&v=%7B%22cr%22%3A0%7D",
+  "seconds": 89.63348889350891
+ }
+}

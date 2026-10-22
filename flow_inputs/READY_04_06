@@ -1,0 +1,7 @@
+Written 2026-10-22 13:16 IST by the experiment agent.
+16:9 Flow inputs (2400x1350) ready for 04 downtown, 05 skyscraper, 06 rural (farming village), generated headless:
+  scene04_start_16x9.png scene04_end_16x9.png
+  scene05_start_16x9.png scene05_end_16x9.png
+  scene06_start_16x9.png scene06_end_16x9.png
+Settings: Colour, people/cars none, 24 mm, straight verticals ON, Area 2 km, near 300 m, preset "Central street · eye level", end = +40.0 m along the horizontal heading.
+Use the same prompts and settings as 01-03 (FLOW_BRIEF.md). Save as flow/scene0{4,5,6}_{A,B}.mp4.

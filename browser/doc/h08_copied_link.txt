@@ -1,0 +1,1 @@
+https://tools.oyasumi-gamedev.com/worldgacha/?lang=en#r=%7B%22app%22%3A%22worldgacha%22%2C%22v%22%3A1%2C%22type%22%3A%22downtown%22%2C%22seed%22%3A20261004%2C%22size%22%3A2000%2C%22res%22%3A512%2C%22town%22%3A1%2C%22nodeSeeds%22%3A%7B%7D%2C%22num%22%3A%7B%7D%2C%22paint%22%3A%5B%5D%7D&c=-3.2%2C1.6%2C9.8%2C25.4%2C1.6%2C19%2C24&k=300&v=%7B%22cr%22%3A0%7D

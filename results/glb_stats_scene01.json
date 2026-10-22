@@ -1,0 +1,14 @@
+{
+ "file": "browser/scene01.glb",
+ "bytes": 49759476,
+ "meshes": 48,
+ "nodes": 159,
+ "triangles": 898826,
+ "vertices": 1147741,
+ "materials_approx": 23,
+ "extents_m": [
+  316.5,
+  52.8,
+  323.4
+ ]
+}

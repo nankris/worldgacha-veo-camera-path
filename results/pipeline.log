@@ -1,0 +1,42 @@
+16:01:35 capture finished
+Loading weights:   0%|          | 0/287 [00:00<?, ?it/s]Loading weights: 100%|██████████| 287/287 [00:00<00:00, 11584.36it/s]
+01 {'GTself': 0.0} 18s
+16:01:55 selftest done
+Loading weights:   0%|          | 0/287 [00:00<?, ?it/s]Loading weights: 100%|██████████| 287/287 [00:00<00:00, 12894.49it/s]
+01 {'C': 0.1574, 'D': 0.1047, 'A': 0.2513, 'B': 0.2007} 19s
+02 {'C': 0.1846, 'D': 0.1224, 'A': 0.0877, 'B': 0.1364} 16s
+03 {'C': 0.4422, 'D': 0.2442, 'A': 0.2721, 'B': 0.7048} 17s
+04 {'C': 0.2365, 'D': 0.2617, 'A': 0.186, 'B': 0.5586} 19s
+05 {'C': 0.1771, 'D': 0.3713, 'A': 0.4673, 'B': 0.3042} 20s
+06 {'C': 0.7885, 'D': 0.8471, 'A': 0.92, 'B': 0.859} 17s
+16:03:46 score done
+H1 0.1298 [-0.226, 0.4834] INCONCLUSIVE wins 3 / 6
+H2 -0.213 [-0.8587, 0.299] INCONCLUSIVE wins 3 / 6
+H3 -0.6474 [-1.287, -0.0995] DISPROVEN wins 1 / 6
+H4 -0.0263 [-0.5035, 0.3176] INCONCLUSIVE wins 3 / 6
+means {'A': 0.36405818200111906, 'B': 0.46062250366465846, 'C': 0.3310610888592106, 'D': 0.3252437712958344}
+edge {'A': 0.8122820799897986, 'B': 0.7141720694865255, 'C': 0.7611761787229895, 'D': 0.7883629159772559}
+browser_reload                             browser/scene01_start_reload.png         mad=0.000 >8=0.00% f1=1.000 PASS
+headless_link_reload_vs_exact_cam          browser/scene06_start_reload.png         mad=2.365 >8=4.41% f1=0.786 fail
+headless_link_reload_vs_link_reload        browser/scene06_start_reload2.png        mad=0.000 >8=0.00% f1=1.000 PASS
+headless_vs_browser_start                  gt/scene01/gt_000.png                    mad=0.028 >8=0.00% f1=1.000 PASS
+headless_vs_browser_end                    gt/scene01/gt_024.png                    mad=0.035 >8=0.00% f1=0.999 PASS
+headless_vs_browser_start                  gt/scene02/gt_000.png                    mad=0.596 >8=1.56% f1=0.864 fail
+headless_vs_browser_end                    gt/scene02/gt_024.png                    mad=0.034 >8=0.00% f1=0.992 PASS
+headless_vs_browser_start                  gt/scene03/gt_000.png                    mad=0.801 >8=1.82% f1=0.973 PASS
+headless_vs_browser_end                    gt/scene03/gt_024.png                    mad=0.111 >8=0.20% f1=0.990 PASS
+headless_vs_headless_gen_start             gt/scene04/gt_000.png                    mad=0.000 >8=0.00% f1=1.000 PASS
+headless_vs_headless_gen_end               gt/scene04/gt_024.png                    mad=0.000 >8=0.00% f1=1.000 PASS
+headless_vs_headless_gen_start             gt/scene05/gt_000.png                    mad=0.000 >8=0.00% f1=1.000 PASS
+headless_vs_headless_gen_end               gt/scene05/gt_024.png                    mad=0.000 >8=0.00% f1=1.000 PASS
+headless_vs_headless_gen_start             gt/scene06/gt_000.png                    mad=0.003 >8=0.01% f1=0.999 PASS
+headless_vs_headless_gen_end               gt/scene06/gt_024.png                    mad=0.002 >8=0.00% f1=1.000 PASS
+H5 INCONCLUSIVE
+01
+02
+03
+04
+05
+06
+ok
+16:07:06 PIPELINE_DONE
